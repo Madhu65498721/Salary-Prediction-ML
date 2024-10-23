@@ -1,6 +1,3 @@
-Here's a simple README file for your GitHub repository that describes the project:
-
-```markdown
 # Simple Linear Regression
 
 This repository contains a Python implementation of a simple linear regression model to predict employee salary based on years of experience.
