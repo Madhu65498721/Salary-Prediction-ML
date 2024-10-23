@@ -1,4 +1,3 @@
-# Salary-Prediction-ML
 Here's a simple README file for your GitHub repository that describes the project:
 
 ```markdown
